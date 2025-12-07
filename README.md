@@ -25,8 +25,8 @@
 | SQLAlchemy | 2.0+ | ORM框架 |
 | Flask-JWT-Extended | 4.4.4 | JWT认证 |
 | Flask-CORS | 4.0.0 | 跨域资源共享 |
-| SQLite | 3.30+ | 默认数据库 |
-| MySQL | 5.7+ | 可选数据库 |
+| SQLite | 3.30+ | 可选数据库 |
+| MySQL | 5.7+ | 默认数据库 |
 
 ### 前端技术栈
 | 技术 | 版本 | 用途 |
